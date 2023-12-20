@@ -1,1 +1,3 @@
 # ERP_Dairy_Farm_Simulation_project
+In this Project Report, we are analysis the data of 5 companies that participated in the simulation game. All the 5 companies have unique warehouses and associated three regions. The regions are North, South, and West. Based on the results at the end of the game, we performed various analyses to understand and compare the data with the winning company and other companies.
+Each company has 4 participants with dedicated roles such as CEO, Sales Manager, Purchase Planning Manager, Material Manager. All the participants operate in their designated roles to target and reach the sale and revenue goals. The objective of the game includes strategies to maximize the profit and win against the competitors.
